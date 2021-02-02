@@ -27,3 +27,15 @@ But once we cut the data by their seperate Lots we can call out that Lot3 holds 
 ![](/images/lot_summary.png)
 
 We see that that the SD of Lot3 is 13 off the mean versus just 2.7 from Lot2 and .99 from Lot1. 
+
+
+## T-Tests on Suspension Coils
+
+![](/images/all_lots.png)
+
+
+![](images/Lot1.png)
+
+![](images/Lot2.png)
+
+![](images/Lot3.png)
