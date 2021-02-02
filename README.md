@@ -2,6 +2,10 @@
 
 ## Linear Regression to Predict MPG
 
+![](/images/linear_reg.png)
+
+![](/images/summary_lin_reg.png)
+
 According to our results, vehicle length and ground clearance (as well as intercept) are statistically unlikely to provide random amounts of variance to the linear model. In other words, they have a significant impact on MPG. 
 
 When an intercept is statistically significant, it means there are other variables that we have not accounted for that contribute to variance of MPG. 
@@ -10,3 +14,16 @@ Our P-Value is 5.35e-11, which is much smaller than our assumed significant leve
 
 R-sqaared is .7149, which means that roughly 72% of MPG predicition will be correct using this linear model. 
 
+## Summary Statistics on Suspension Coils 
+
+We wanted to deetermine if the weight capacties from suspension coils in the manufacturing process is consistsent across production lots. From our analysis we determine that across all lots we have a mean of ~1498 PSI, median of 1500 PSI, with Standard Deviatoin of ~7.9. 
+
+![](/images/total_summary.png)
+
+When we look at the data from all lots, we meet the standards of not exceeding a variance of 100 pounds per square inch on the coils. 
+
+But once we cut the data by their seperate Lots we can call out that Lot3 holds much of the blame in our inconsistencies. 
+
+![](/images/lot_summary.png)
+
+We see that that the SD of Lot3 is 13 off the mean versus just 2.7 from Lot2 and .99 from Lot1. 
