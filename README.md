@@ -33,6 +33,8 @@ We see that that the SD of Lot3 is 13 off the mean versus just 2.7 from Lot2 and
 
 ### T-test for all lots 
 ![](/images/all_lots.png)
+Assuming the significance level of .05%, our p-value of 1 is above the significance level. Therefore, we do not have sufficient evidence to reject the null hypothesis. 
+
 
 ### T-test for Lot 1
 ![](images/Lot1.png)
