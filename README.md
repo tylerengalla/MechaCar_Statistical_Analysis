@@ -31,11 +31,14 @@ We see that that the SD of Lot3 is 13 off the mean versus just 2.7 from Lot2 and
 
 ## T-Tests on Suspension Coils
 
+### T-test for all lots 
 ![](/images/all_lots.png)
 
-
+### T-test for Lot 1
 ![](images/Lot1.png)
 
+### T-test for Lot 2
 ![](images/Lot2.png)
 
+### T-test for Lot 3
 ![](images/Lot3.png)
