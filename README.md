@@ -56,3 +56,23 @@ Assuming significance level of .05%, our p-value for Lot 2 of .0006 is lower tha
 ![](images/Lot3.png)
 
 Assuming significance level of .05%, our p-value for Lot 2 of .1589 is lower than the significance level. Therefore, we do not have sufficient evidence to reject the null hypothesis. 
+
+## Study Design: MechaCar vs Competition 
+To design a statisitcal study to compare performance of the MechaCar vehicles against performance of vehicles from other manufacturers - we'll need some more metrics like:  
+
+- Cost
+- Highway MPG
+- City MPG
+- Horsepower
+- Quarter-Mile time 
+
+## Hypothesis
+- H0: The slope of the linear model is zero, or m = 0 
+- Ha: The slop of the linear model is not zero, or m ≠ 0
+
+## Test Summary 
+To conduct this test, we'd want to perform a correlation matrix to identify areas of interest between the variables. Then perform a multiple linear regression analysis to see how much variance those variables bring into the model. 
+
+We'd assume that metrics like Horespower and Cost would be negatively correlated to metrics like Quarter-Mile time. 
+
+To perform this accurately we'd need a large enough sample size so that our model can be as accurate as possible.  
