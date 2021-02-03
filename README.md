@@ -48,5 +48,7 @@ Assuming significnace level of .05%, our p-value for Lot 1 of 1.568e-11 is lower
 ### T-test for Lot 2
 ![](images/Lot2.png)
 
+Assuming significance level of .05%, our p-value for Lot 2 
+
 ### T-test for Lot 3
 ![](images/Lot3.png)
