@@ -48,7 +48,11 @@ Assuming significnace level of .05%, our p-value for Lot 1 of 1.568e-11 is lower
 ### T-test for Lot 2
 ![](images/Lot2.png)
 
-Assuming significance level of .05%, our p-value for Lot 2 
+Assuming significance level of .05%, our p-value for Lot 2 of .0006 is lower than the significance level. Therefore, we do not have sufficient evidence to reject the null hypothesis. 
+
+
 
 ### T-test for Lot 3
 ![](images/Lot3.png)
+
+Assuming significance level of .05%, our p-value for Lot 2 of .1589 is lower than the significance level. Therefore, we do not have sufficient evidence to reject the null hypothesis. 
